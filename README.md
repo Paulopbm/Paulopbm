@@ -1,7 +1,9 @@
 Olá! Eu sou Paulo Barbosa
-🔭Hoje trabalho com projetos front-end
-🌱Cursando Analise Desenvolvimento de Sistemas
-⚡Estudo programação nas horas vagas 
+
+
+🔭Hoje trabalho com projetos front-end.
+🌱Cursando Analise Desenvolvimento de Sistemas.
+⚡Estudo programação nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/paulopbm">

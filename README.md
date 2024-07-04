@@ -1,8 +1,5 @@
 Olá! Eu sou Paulo Barbosa
 
-🔭Hoje trabalho com projetos front-end
-🌱Cursando Analise Desenvolvimento de Sistemas.
-
 
 
 <div align="center">
